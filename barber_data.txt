@@ -1,0 +1,11 @@
+20250123|Jason|C|Supreme|Yosuke|100|23|1|2025|****
+20250212|Agnes|C|Super|Laura|50|12|2|2025|*****
+20250213|hana|C|super|Yosuke|50|12|2|2025|****
+20250308|Vico|C|Supreme|Fred|100|8|3|2025|*****
+20250403|Beni|C|Super|Apis|50|3|4|2025|***
+20250415|Thienny|D|Super|Apis|65|15|4|2025|***
+20250416|Alex|P|Curly basic|Fred|250|16|4|2025|*****
+20250520|Kiko|C|Basic|Laura|25|20|5|2025|****
+20250606|Lala|D|Basic|Laura|40|6|6|2025|****
+20251112|piuu|D|Super|Yosuke|65|12|11|2025|*****
+20251220|yuke|C|Basic|Laura|25|20|12|2025|****
