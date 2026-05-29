@@ -3,7 +3,7 @@
 ![C](https://img.shields.io/badge/Language-C-blue)
 ![Data Structure](https://img.shields.io/badge/Data_Structure-Binary_Search_Tree-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-![Type](https://img.shields.io/badge/Type-Group-8A2BE2)
+![Type](https://img.shields.io/badge/Type-Group_Project-8A2BE2)
 
 > **A robust CLI-based Barber Shop Management System featuring full CRUD operations and business analytics, built using Binary Search Trees (BST) in C.**
 > _Built as a Data Structure university final project! 🚀_
