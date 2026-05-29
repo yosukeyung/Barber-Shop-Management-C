@@ -7,10 +7,7 @@
 
 > **A robust CLI-based Barber Shop Management System featuring full CRUD operations and business analytics, built using Binary Search Trees (BST) in C.**
 > _Built as a Data Structure university final project! 🚀_
->
-> **Status:** 🏁 Completed
-> 
-> **Project Type:** Group Project
+
 
 ## 📖 Project Overview
 As the barbershop industry grows, relying on manual data entry leads to inefficiencies, data loss, and difficulties in tracking business performance. This project aims to digitalize barbershop management. 
