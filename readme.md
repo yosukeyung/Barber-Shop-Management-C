@@ -39,6 +39,11 @@ In this group project, my primary responsibility was building the core data mana
 - **Language:** C Programming Language
 - **Core Concepts:** Pointers, Memory Management, Binary Search Trees (BST), File Handling (`.txt`), CLI UI/UX.
 
+## 🚀 Upcoming Features (Roadmap)
+
+This project is currently in **Active Development**. 
+While the core logic of the barbershop management system is fully functional in the terminal, I am currently upgrading the application to feature a modern Graphical User Interface (GUI) for a more intuitive user experience.
+
 ## 📂 Project Structure
 ```text
 ├── finpro.c             # The main C source code containing the logic and BST implementation
